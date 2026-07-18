@@ -42,7 +42,7 @@ waf-firewall/
 
 bash:-
 
-git clone https://github.com/sibubehera097-byte/waf-firewall.git
+git clone https://github.com/sibubehera/waf-firewall.git
 
 cd waf-firewall
 
